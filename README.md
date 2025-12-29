@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2 align="center"> ## Hi there 👋</h2>
 <!-- Header banner -->
 <p align="center">
   <img src="https://github.com/anicse37/anicse37/raw/main/assets/terminal-header.gif" alt="Terminal style banner" width="100%" />
@@ -94,18 +94,6 @@ Scalable backend with authentication, data handling, and REST endpoints for an i
 **Stack**: Golang · MySQL · HTML/CSS/JS  
 
 Role‑based, session‑aware library system with a clean separation between frontend and backend.
-
----
-
-## 📊 Stats (dark / red theme)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anicse37&show_icons=true&theme=radical&hide_border=true&title_color=ff2b2b&icon_color=ff2b2b" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anicse37&theme=tokyonight&ring=ff2b2b&fire=ff2b2b&currStreakLabel=ff2b2b&hide_border=true" alt="GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anicse37&layout=compact&theme=radical&hide_border=true&title_color=ff2b2b" alt="Top Languages" />
-</p>
 
 ---
 
