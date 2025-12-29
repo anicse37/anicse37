@@ -1,16 +1,127 @@
 ## Hi there 👋
+<!-- Header banner -->
+<p align="center">
+  <img src="https://github.com/anicse37/anicse37/raw/main/assets/terminal-header.gif" alt="Terminal style banner" width="100%" />
+</p>
 
-<!--
-**anicse37/anicse37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm <code>Aniket</code> 👨‍💻</h1>
+<h3 align="center">Backend Developer · Golang · Chandigarh, IN</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FF2B2B&center=true&vCenter=true&width=600&lines=Designing+boringly+reliable+backends;Golang+APIs%2C+worker+pools%2C+and+MySQL;Dockerized+services+on+Linux;Open+to+backend+roles+and+internships" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 `runtime.log`
+
+$ go run main.go
+✓ bootstrapped worker pool (goroutines: 64)
+✓ connected to MySQL @ prod-cluster
+✓ docker image built: anicse/api:latest
+✓ ready to handle new requests...
+
+
+<p align="center">
+  <img src="https://github.com/anicse37/anicse37/raw/main/assets/drstrange-backend.gif" alt="Dr Strange backend gif" width="350" />
+</p>
+
+---
+
+## ⚙️ Stack
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <br/>
+  <!-- Backend / Infra -->
+  <img src="https://img.shields.io/badge/REST-ff2b2b?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-5e5e5e?style=for-the-badge&logo=protobuf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <br/>
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-2862E9?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000" />
+</p>
+
+---
+
+## 💻 What I work on
+
+- **Backend**: Golang microservices, REST/gRPC APIs, worker pools, context timeouts  
+- **Data**: MySQL schemas, indexing, query optimization  
+- **Infra**: Docker, Linux, bash scripting, basic CI/CD  
+- **Web**: minimal UIs and internal tools with HTML/CSS/JS  
+
+> I don’t know everything, but I understand enough to know no one understands it.
+
+---
+
+## 🚀 Experience & projects
+
+### 👨‍💼 Software Engineer Intern – Graycell Technologies  
+`April 2025 – Present · Chandigarh, IN`
+
+- Building and maintaining backend APIs in **Golang**.  
+- Implementing **concurrency** (goroutines, worker pools) for parallel workloads.  
+- Using **MySQL** for data modeling, query optimization, and integration.  
+- Integrating **payment gateways** into backend services.  
+- Containerizing services with **Docker** and scripting automation on **Linux**.  
+
+---
+
+### 🧪 Image Mixer – Identity‑consistent image generation  
+**Stack**: Golang · Stability AI · Gemini · HTML/CSS/JS  
+**Live**: https://imagemixer.anicse.dev  
+
+Golang‑based platform that combines user prompts and reference photos to generate realistic, identity‑consistent images via Stability and Gemini APIs.
+
+---
+
+### 🛠️ Backend for internal tool  
+**Stack**: Golang · MySQL · Docker  
+
+Scalable backend with authentication, data handling, and REST endpoints for an internal product workflow.
+
+---
+
+### 📚 Library Management System (Full‑stack)  
+**Stack**: Golang · MySQL · HTML/CSS/JS  
+
+Role‑based, session‑aware library system with a clean separation between frontend and backend.
+
+---
+
+## 📊 Stats (dark / red theme)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anicse37&show_icons=true&theme=radical&hide_border=true&title_color=ff2b2b&icon_color=ff2b2b" alt="GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anicse37&theme=tokyonight&ring=ff2b2b&fire=ff2b2b&currStreakLabel=ff2b2b&hide_border=true" alt="GitHub streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anicse37&layout=compact&theme=radical&hide_border=true&title_color=ff2b2b" alt="Top Languages" />
+</p>
+
+---
+
+## 📡 Contact
+
+<p align="center">
+  <a href="mailto:anicse37@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff2b2b?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/anicse37" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/anicse37" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="/scr/template/images/Aniket_Bhardwaj_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=readthedocs&logoColor=000000" />
+  </a>
+</p>
