@@ -1,4 +1,3 @@
-<h2 align="center"> ## Hi there 👋</h2>
 <!-- Header banner -->
 <p align="center">
   <img src="https://github.com/anicse37/anicse37/raw/main/assets/terminal-header.gif" alt="Terminal style banner" width="100%" />
@@ -16,10 +15,11 @@
 ## 🧠 `runtime.log`
 
 $ go run main.go
-- ✓ bootstrapped worker pool (goroutines: 64)
-- ✓ connected to MySQL @ prod-cluster
-- ✓ docker image built: anicse/api:latest
-- ✓ ready to handle new requests...
+✓ bootstrapped worker pool (goroutines: 64)
+✓ connected to MySQL @ prod-cluster
+✓ docker image built: anicse/api:latest
+✓ ready to handle new requests...
+
 
 
 <p align="center">
@@ -62,38 +62,9 @@ $ go run main.go
 
 ---
 
-## 🚀 Experience & projects
+## 🌐 Portfolio
 
-### 👨‍💼 Software Engineer Intern – Graycell Technologies  
-`April 2025 – Present · Chandigarh, IN`
-
-- Building and maintaining backend APIs in **Golang**.  
-- Implementing **concurrency** (goroutines, worker pools) for parallel workloads.  
-- Using **MySQL** for data modeling, query optimization, and integration.  
-- Integrating **payment gateways** into backend services.  
-- Containerizing services with **Docker** and scripting automation on **Linux**.  
-
----
-
-### 🧪 Image Mixer – Identity‑consistent image generation  
-**Stack**: Golang · Stability AI · Gemini · HTML/CSS/JS  
-**Live**: https://imagemixer.anicse.dev  
-
-Golang‑based platform that combines user prompts and reference photos to generate realistic, identity‑consistent images via Stability and Gemini APIs.
-
----
-
-### 🛠️ Backend for internal tool  
-**Stack**: Golang · MySQL · Docker  
-
-Scalable backend with authentication, data handling, and REST endpoints for an internal product workflow.
-
----
-
-### 📚 Library Management System (Full‑stack)  
-**Stack**: Golang · MySQL · HTML/CSS/JS  
-
-Role‑based, session‑aware library system with a clean separation between frontend and backend.
+- **Website**: [https://anicse.dev](https://anicse.dev)
 
 ---
 
