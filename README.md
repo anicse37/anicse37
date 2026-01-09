@@ -14,10 +14,14 @@
 
 ## 🧠 `runtime.log`
 
-$ go run main.go
+$ go run main.go 
+  <br/>
 ✓ bootstrapped worker pool (goroutines: 64)
+<br/>
 ✓ connected to MySQL @ prod-cluster
+<br/>
 ✓ docker image built: anicse/api:latest
+<br/>
 ✓ ready to handle new requests...
 
 
