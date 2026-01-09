@@ -41,6 +41,7 @@ $ go run main.go
   <img src="https://img.shields.io/badge/REST-ff2b2b?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/gRPC-5e5e5e?style=for-the-badge&logo=protobuf&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <br/>
   <!-- Web -->
@@ -80,7 +81,7 @@ $ go run main.go
   <a href="https://github.com/anicse37" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1Ec2i0_nwueSyTfvle2UuulPdU8W-MbiT/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/17soeyeChFGovPg-PMfNg95xpHUmB0Z4L/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=readthedocs&logoColor=000000" />
   </a>
 </p>
