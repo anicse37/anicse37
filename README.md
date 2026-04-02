@@ -85,7 +85,7 @@ $ go run main.go
   <a href="https://github.com/anicse37" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1vWYgPQWXFgvOTn2aE9cmhhuiHxc4aTt3/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1rWhSIOlFNPoJO5n42bOzDiyuRQCCibQu/view">
     <img src="https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=readthedocs&logoColor=000000" />
   </a>
 </p>
